@@ -3,7 +3,7 @@ COMPANY NAME:CODETECH IT SOLUTIONS
 
 NAME:yesvanth karthik K
 
-INTERN ID:CT04DG1
+INTERN ID:CT04DG1545
 
 DOMAIN:C PROGRAMMING
 
@@ -34,3 +34,4 @@ Then, we open the same file again in append mode, so the user can add more conte
 Finally, we read the full content from the file and display it back to the user.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/29da2542-8116-41e1-bc34-514fea56d031)
